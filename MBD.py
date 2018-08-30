@@ -17,7 +17,7 @@
 """
 # Metodo do Buffer Duplo
 ##MBD - Metodo do Buffer Duplo=name
-##LF07) Qualidade=group
+##Acuracia Linear=group
 ##Camada_de_Referencia=vector
 ##Camada_de_Teste=vector
 ##Buffer_de_Relacionamento=number 30.0
